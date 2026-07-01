@@ -1,0 +1,35 @@
+# VS Code + Model Training Requirements
+# Installation: pip install -r requirements_vscode_setup.txt
+
+# PyTorch (Deep Learning Framework)
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Machine Learning
+scikit-learn==1.2.0
+numpy==1.23.0
+pandas==1.5.3
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+notebook==6.5.4
+ipython==8.12.0
+
+# Web Interface
+gradio==4.0.0
+
+# Image Processing
+pillow==9.5.0
+
+# Model Serialization
+joblib==1.2.0
+
+# Optional but useful
+tqdm==4.65.0  # Progress bars
+requests==2.31.0  # HTTP requests
+python-dotenv==1.0.0  # Environment variables

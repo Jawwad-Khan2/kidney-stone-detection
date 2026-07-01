@@ -1,0 +1,17 @@
+# FastAPI Requirements
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# ML/DL
+torch==2.0.1
+torchvision==0.15.2
+scikit-learn==1.2.0
+joblib==1.2.0
+
+# Image Processing
+pillow==9.5.0
+
+# Utilities
+numpy==1.23.0
+requests==2.31.0

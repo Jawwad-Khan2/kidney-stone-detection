@@ -149,8 +149,6 @@ __pycache__/
 .fastapi_cache/
 
 # Keep important files (tracked with Git LFS)
-!logistic_regression_classifier.pkl
-!resnet50_feature_metadata.pt
 !*.pkl
 !*.pt
 
